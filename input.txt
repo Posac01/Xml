@@ -1,0 +1,10 @@
+B|Central Tower
+A|Main St 1|Stockholm|11122
+O|Alice Johansson
+A|Second St 5|Stockholm|11123
+A|Third St 10|Stockholm|11124
+T|08-123456|08-654321
+C|TechCorp|IT
+A|Innovation Rd 10|Stockholm|11125
+A|Tech Ave 7|Stockholm|11126
+T|08-987654|08-456789

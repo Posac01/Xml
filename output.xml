@@ -1,0 +1,45 @@
+<buildings>
+  <building>
+    <name>Central Tower</name>
+    <address>
+      <street>Main St 1</street>
+      <city>Stockholm</city>
+      <zipcode>11122</zipcode>
+    </address>
+    <owner>
+      <name>Alice Johansson</name>
+      <phone>
+        <landline>08-123456</landline>
+        <fax>08-654321</fax>
+      </phone>
+      <address>
+        <street>Second St 5</street>
+        <city>Stockholm</city>
+        <zipcode>11123</zipcode>
+      </address>
+      <address>
+        <street>Third St 10</street>
+        <city>Stockholm</city>
+        <zipcode>11124</zipcode>
+      </address>
+    </owner>
+    <company>
+      <name>TechCorp</name>
+      <type>IT</type>
+      <phone>
+        <landline>08-987654</landline>
+        <fax>08-456789</fax>
+      </phone>
+      <address>
+        <street>Innovation Rd 10</street>
+        <city>Stockholm</city>
+        <zipcode>11125</zipcode>
+      </address>
+      <address>
+        <street>Tech Ave 7</street>
+        <city>Stockholm</city>
+        <zipcode>11126</zipcode>
+      </address>
+    </company>
+  </building>
+</buildings>
