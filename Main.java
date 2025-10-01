@@ -43,7 +43,7 @@ public class Main {
             switch (parts[0]) {
                 case "B":
                     //Check if line if formatted correctly
-                    if(parts.length < 2){
+                    if(parts.length != 2){
                     System.err.println("Input-error: Building on line " + (i+1) + " mmissing field. Should be B|name");
                     return;
                     }
@@ -113,7 +113,7 @@ public class Main {
                     return;
                     }
                     //Check if format is correct
-                    if(parts.length < 2){
+                    if(parts.length != 2){
                     System.err.println("Input-error: Owner on line" + (i+1) + " missing field. Should be O|name");
                     return;
                     }
@@ -138,7 +138,7 @@ public class Main {
                     return;
                     }
                     //Check if format is correct
-                    if(parts.length < 3){
+                    if(parts.length != 3){
                     System.err.println("Input-error: Company on line " + (i+1) + " missing field. Should be C|name|type");
                     return;
                     }
@@ -168,7 +168,7 @@ public class Main {
                     return;
                     }
                     //Check if format is correct
-                    if(parts.length < 3){
+                    if(parts.length != 3){
                     System.err.println("Input-error: Telephone on line " + (i+1) + " missing field. Should be T|number|faxnumber");
                     return;
                     }
